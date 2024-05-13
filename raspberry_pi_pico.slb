@@ -19,7 +19,7 @@
     "pattern_match_files": "lv_conf.h, driver-libraries/lv_drv_conf.h, main.cpp, CMakeLists.txt, CMakeLists-Pico.txt, CMakeLists-PicoW.txt, .vscode/launch.json, .project",
     "ui_export_path": "./ui",
     "flat_export": false,
-    "url": "https://github.com/lvgl/lv_port_pc_eclipse",
+    "url": "https://github.com/SquareLineStudio/board_raspico_vscode_lcd/tree/v1.0.0",
     "short_description": "CMake / VS Code / Eclipse based project to cross-develop 32bit Raspberry-Pi Pico UIs on PC. ",
     "long_description": "It's a CMake / Visual Studio Code / Eclipse based project which opens a window and puts the UI into it. You can use this project to cross-develop for the 32bit Raspberry-Pi Pico. To use this project you need to install CMake, or for GUI-based development, Visual Studio Code, and Pico-SDK with 32bit-ARM cross-compiler toolchain.",
     "repository": "https://github.com/SquareLineStudio/board_raspico_vscode_lcd/tree/v1.0.0",
